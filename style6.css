@@ -50,12 +50,12 @@
         overflow: hidden;
         position: relative;
         flex: 0 0 330px;
-        margin: 10px 0px;    
+        margin: 10px 0px;   
         
     }
     .inner{
         width: 100%;
-        height: 80rem;
+        height: 80rem; 
         display: flex;
         justify-content: space-around;
         align-content: start;
@@ -69,12 +69,15 @@
         top: .3px;
         margin: 0px;
         font-size: 1.2rem;
+
         border-radius: 5px;
         padding: 5px;
+   
   }
   .nav{
     width: 100%;
     height: 3rem;
+    
     background-color: white;
     position: sticky;
     top: 0;
@@ -88,6 +91,7 @@
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
   .tool{
+    
     width: 20rem;
     height: 2.5rem;
     position: absolute;
@@ -101,8 +105,7 @@
     height: 90%;
         font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: large;
-    padding-top:15px ; 
-    
+    padding-top:15px ;  
   }
   .pname{
     width: 100%;
@@ -110,4 +113,3 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding: 30px 15px;
   }
-  
