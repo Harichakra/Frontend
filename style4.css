@@ -27,7 +27,16 @@
     position: absolute;
     left: 25px;
     top: 25px;
-    border-radius: 50%;
+border-radius: 50%;
+}
+p{
+    position: relative;
+    top: -35%;
+    left: 40%;
+    color:green ;
+    stroke: black ;
+    stroke-width: 10px;
+    font-weight: 1000;
 }
 .image2{
     height: 150px;
